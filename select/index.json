@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "初恋が泣いている",
+  "base_artist": "あいみょん",
+  "createdAt": "2026-02-22T05:40:22.393449Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "初恋が泣いている",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/01_初恋が泣いている_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "初恋が泣いている - My First Love is Crying",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/02_初恋が泣いている_-_My_First_Love_is_Crying_aimyon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初恋が泣いている",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_初恋が泣いている_あいみょん.txt"
+    }
+  ]
+}
